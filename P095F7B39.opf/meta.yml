@@ -1,0 +1,28 @@
+id: P095F7B39
+initial_creation_type: input
+source_metadata:
+  work_id: http://purl.bdrc.io/resource/WA3JT13364
+  instance_id: http://purl.bdrc.io/resource/IE3JT13364
+  collection_id: http://purl.bdrc.io/resource/PR0ET005
+  language_id: None
+  title:
+    bo:
+    - ཏཱ་ར་ནཱ་ཐའི་རྣམ་ཐར་མདོར་བསྡུས།
+  alt_title:
+    bo:
+    - ཇོ་ནང་རྗེ་བཙུན་ཏཱ་ར་ནཱ་ཐའི་རྣམ་ཐར་མདོར་བསྡུས།
+  author: http://purl.bdrc.io/resource/P1PD100945
+  publisher: KarmaDelek
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: false
+  volumes:
+    ee96231f6c2744d293adfd1bf70afeeb:
+      title: རྗེ་བཙུན་ཏཱ་ར་ནཱ་ཐའི་རྣམ་ཐར་མདོར་བསྡུས།༡༥༧༥༡༦༣༥
+      volume_number: 1
+      base_file: UT3JT13364_001_0003.txt
+      reference: http://purl.bdrc.io/resource/VLC7A25744509FC383
+      image_group: null
+      quality: null
+  reproductionOf: []
+created_at: '2021-12-31T08:18:23.821888'
+last_modified_at: '2021-12-31T08:18:23.821897'
